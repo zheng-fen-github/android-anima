@@ -1,0 +1,8 @@
+<set android:ordering="together"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <objectAnimator
+        android:propertyName="alpha"
+        android:duration="1600"
+        android:valueTo="1"
+        android:valueType="floatType"/>
+</set>
